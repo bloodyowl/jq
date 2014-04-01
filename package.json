@@ -1,0 +1,22 @@
+{
+  "name": "jq",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"tests passed\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bloodyowl/jq.git"
+  },
+  "author": "bloodyowl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bloodyowl/jq/issues"
+  },
+  "homepage": "https://github.com/bloodyowl/jq",
+  "dependencies": {
+    "jquery": "^2.1.0"
+  }
+}
