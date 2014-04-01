@@ -1,6 +1,6 @@
 # jq
 
-jq adds shortcuts to jQuery to make you code faster and more productive
+jq adds shortcuts to jQuery to make you code faster and more productively
 
 ## methods
 
